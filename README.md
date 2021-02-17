@@ -9,10 +9,3 @@ Collected resources for Keras beginners! Have fun!
 
 [Keras with MNIST dataset](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
-## Notes
-Keras requires that labels be one-hot-encoded.
-```python
-def one_hot_1(x):
-    uniques, ids = np.unique(x, return_inverse=True)
-    return np_utils.to_categorical(ids, len(uniques))
-```
