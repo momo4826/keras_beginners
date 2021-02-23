@@ -10,3 +10,5 @@ Collected resources for Keras beginners! Have fun!
 [Keras with MNIST dataset](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
 [Keras with Fashion MNIST dataset](https://github.com/momo4826/keras_beginners/blob/main/Fashion_MNIST_in_Keras.ipynb)
+
+[Keras with IMDB dataset](https://github.com/momo4826/keras_beginners/blob/main/IMDB_in_keras.ipynb)
